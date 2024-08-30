@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 45M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: GTSSERV
+  host: GTSSERV
+  disk_quota: 1024M

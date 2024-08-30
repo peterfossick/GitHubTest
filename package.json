@@ -1,0 +1,19 @@
+{
+  "name": "NodejsStarterApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "cfenv": "^1.0.3",
+    "express": "3.x",
+    "http-auth": "^3.0.1",
+    "serve-static": "^1.11.1"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
